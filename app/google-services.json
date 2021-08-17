@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927388718011",
+    "project_id": "test-login-c163d",
+    "storage_bucket": "test-login-c163d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927388718011:android:2bf85f966d3618d8b0aa9e",
+        "android_client_info": {
+          "package_name": "com.example.test_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927388718011-f4lg6opj0fd0aplrqsdu1c8e3kdm6sjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRY1UHJKG9LPnbRTrdz4Yjzn6ZdAigBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927388718011-f4lg6opj0fd0aplrqsdu1c8e3kdm6sjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
